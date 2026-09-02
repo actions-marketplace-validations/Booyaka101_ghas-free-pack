@@ -1,2 +1,5 @@
 test/out/
 test/node_modules/
+
+# Local build notes, not for the public repo
+PROGRESS.md
